@@ -5,7 +5,7 @@ Viajera en la nube de AWS, próxima Desarrolladora Fullstack Python y Licenciada
 ![Mis lenguajes](https://skillicons.dev/icons?i=py,js&perline=3)
 
 ## Herramientas
-![Herramientas](https://skillicons.dev/icons?i=aws,linux,git,vscode,mysql,postgres,dynamodb,powershell,bash,&perline=3)
+![Herramientas](https://skillicons.dev/icons?i=aws,linux,git,vscode,mysql,postgres,dynamodb,powershell,bash&perline=3)
 
 ## Nos conectamos? 📩
 [![LindekIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/sofia-perez-hidd)

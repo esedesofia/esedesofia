@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola! Soy Sofi✨
+Viajera en la nube de AWS, próxima Desarrolladora Fullstack Python y Licenciada en Obstetricia y Puericultura.
 
-<!--
-**esedesofia/esedesofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lenguajes de programación
+![Mis lenguajes](https://skillicons.dev/icons?i=py,js&perline=3)
 
-Here are some ideas to get you started:
+## Herramientas
+![Herramientas](https://skillicons.dev/icons?i=aws,linux,git,vscode,mysql,postgres,dynamodb,powershell,bash,&perline=3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nos conectamos? 📩
+[![LindekIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/sofia-perez-hidd)
+[![Mail](https://skillicons.dev/icons?i=gmail&perline=3)](mailto:sperezhidd@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord&perline=3)](esedesofia)

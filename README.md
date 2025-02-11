@@ -1,5 +1,5 @@
 ### Hola! Soy Sofi✨
-Viajera en la nube de AWS, próxima Desarrolladora Fullstack Python y Licenciada en Obstetricia y Puericultura.
+Viajera en la nube de AWS,  Desarrolladora Fullstack y Licenciada en Obstetricia y Puericultura.
 
 ## Lenguajes de programación
 ![Mis lenguajes](https://skillicons.dev/icons?i=py,js&perline=3)
